@@ -209,7 +209,7 @@ public class GmailOAuthService {
 
 ### Creating the database
 
-1. Download [grocery_hub_pos_db]() MySQL Workbench file.
+1. Download [grocery_hub_pos_db](https://drive.google.com/file/d/1cLt1EdkEs3WLftim1zzfIvY2CFg1asyl/view?usp=sharing) MySQL Workbench file.
 2. Open it from MySQL Workbench, then click **Database > Forward engineer...** and follow the wizard to create the database.
 3. Add data to the tables mentioned below first.
     - customer_return_method:
