@@ -213,52 +213,52 @@ public class GmailOAuthService {
 2. Open it from MySQL Workbench, then click **Database > Forward engineer...** and follow the wizard to create the database.
 3. Add data to the tables mentioned below first.
     - customer_return_method:
-     * Exchange
-     * Refund
-     * Store Credit
+      * Exchange
+      * Refund
+      * Store Credit
 
     - customer_return_reason:
-     * Defective Product(s)
-     * Incorrect Item(s)
-     * Changed Mind
-     * Damaged Product(s)
-     * Expired Item(s)
+      * Defective Product(s)
+      * Incorrect Item(s)
+      * Changed Mind
+      * Damaged Product(s)
+      * Expired Item(s)
 
     - customer_return_type:
-     * Full
-     * Partial
+      * Full
+      * Partial
 
     - employee_type:
-     * Admin
-     * Cashier
+      * Admin
+      * Cashier
 
     - gender:
-     * Male
-     * Female
+      * Male
+      * Female
 
     - invoice_status:
-     * Not Returned
-     * Fully Returned
-     * Partially Returned
+      * Not Returned
+      * Fully Returned
+      * Partially Returned
 
     - payment_method:
-     * Cash
-     * Credit Card
+      * Cash
+      * Credit Card
 
     - returning_stock_status:
-     * Pending
-     * Processed
+      * Pending
+      * Processed
 
     - return_invoice_status:
-     * Pending
-     * Approved
+      * Pending
+      * Approved
 
     - supplier_return_reason:
-     * Defective Product(s)
-     * Incorrect Item(s)
-     * Damaged Product(s)
-     * Expired Item(s)
-     * Excess Stock
+      * Defective Product(s)
+      * Incorrect Item(s)
+      * Damaged Product(s)
+      * Expired Item(s)
+      * Excess Stock
 
 ## Usage
 
