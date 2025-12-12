@@ -22,7 +22,7 @@ Features:
 * [JDK 22.0.1](https://www.java.com/en/)
 * [MySQL 8.0](https://www.mysql.com/)
 * [Apache NetBeans IDE 22](https://netbeans.apache.org/front/main/index.html)
-* [[MySQL Workbench 8.0 CE](https://www.mysql.com/)
+* [MySQL Workbench 8.0 CE](https://www.mysql.com/)
 * [Jaspersoft Studio 7.0.0 CE for JasperReports 7.0.0](https://www.jaspersoft.com/)
 * [Google Cloud Console](https://console.cloud.google.com/)
 
