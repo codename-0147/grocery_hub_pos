@@ -3,6 +3,8 @@
 This is a POS (Point of Sales) application created for the use of supermarkets.
 (Grocery Hub is a fictional super market made for the project use.)
 
+Check out a video demonstration of the app here: [Watch the Demo on YouTube](https://youtu.be/dZUVfLjdN9c)
+
 Features:
  - Employee management
  - Supplier management
